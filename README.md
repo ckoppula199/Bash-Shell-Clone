@@ -4,7 +4,7 @@ This repository contains an implementation in Java of a Bash Shell
 
 ## Features
 
-The bash clone is capable of backquotes, IO redirection, command sequences and piping
+The bash clone is capable of command substitution, IO redirection, command sequences and piping
 
 ## Commands
 
